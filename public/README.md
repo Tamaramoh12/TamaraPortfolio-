@@ -85,3 +85,35 @@ Then the content should be unique and reflect the skills and personality of the 
     - A question within the context of today's lab assignment
     - An observation about the lab assignment, or related 'Ah-hah!' moment
     - How long you spent working on this assignment
+
+
+**************************************************************
+Number and name of feature: Deployment
+
+Estimate of time needed to complete: 15 minutes
+
+Start time: 14:10
+
+Finish time: 14:40
+
+Actual time needed to complete: 30 minutes
+**************************************************************
+Number and name of feature: Refactor the CSS
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 14:45
+
+Finish time: 15:10
+
+Actual time needed to complete: 25 minutes
+**************************************************************
+Number and name of feature: Modify the contents
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 15:10
+
+Finish time: 
+
+Actual time needed to complete: 
